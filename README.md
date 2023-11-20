@@ -34,7 +34,12 @@ There are a couple of reasons why you might want to use this BAT file to automat
 The main reason is because some user's run VoiceMeeter as there audio mixer and when they use chat apps like Discord they can sometimes run into a problem with there microphone start's to crackle a lot.
 Which can be fixed by manually setting audiodg.exe to CPU 0, However you would have to set the file to CPU 0 every time you startup your PC
 
-There are YouTube videos that helps you on how to automatically set audiodg.exe to CPU 0, However 90% of all of those videos results into you downloading an application or software.
+# Why should you use this BAT file rather then using applications/software?
+
+There are YouTube videos that helps you on how to automatically set audiodg.exe to CPU 0, However 90 to 95% of all of those videos results into you downloading an application or software.
 Which could lead to possiple undetectable IP address grabbing softwares or malware on your PC.
+
+What most people also don't understand is that using applications or software could use up your RAM or CPU.
+Which could slow down your computer in general
 
 The main purpose of this BAT file is to allow you to automatically set your audiodg.exe file to CPU 0 with the avalibility to change/read the CMD code, and to eliminate all possiple chances of downloading unnecessary applications.
