@@ -1,4 +1,4 @@
-# audiodg-affinity-permanent-fix (NO SOFTWARE REQUIRED)
+# audiodg-affinity-permanent-fix (NO SOFTWARE)
 This 7-Zip file will contain a permanent fix for audiodg's processor without any apps or softrware.
 
 
